@@ -1,2 +1,3 @@
-# pgo-tutorial-s30740
-project
+Kamil Skwierczyński
+GR 13c
+s30740
